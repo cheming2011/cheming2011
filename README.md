@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cheming2011, an vehicle engineer for SAIC. 
+- 👋 Hi, I’m @cheming2011, an vehicle engineer working for SAIC. 
 - 👀 I’m interested in studying things and I thing someday i can program in Auto industry.
 - 🌱 I’m currently learning VBA and python and so on.
 - 💞️ I’m looking to collaborate on converting different format files.
